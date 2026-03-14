@@ -9,3 +9,4 @@ Only **retired machines** are documented.
 | Lame | Easy | [View Report](Lame/HTB-Lame-Writeup.pdf) |
 | Blue | Easy | [View Report](Blue/htb-blue-walkthrough.pdf) |
 | Cap | Easy | [View Report](Cap/HTB-Cap-Writeup.pdf) |
+| Nibbles | Easy | [View Report](Nibbles/HTB-Nibbles-Writeup.pdf) |
