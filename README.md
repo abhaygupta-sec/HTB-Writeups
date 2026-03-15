@@ -11,3 +11,4 @@ Only **retired machines** are documented.
 | Cap | Easy | [View Report](Cap/HTB-Cap-Writeup.pdf) |
 | Nibbles | Easy | [View Report](Nibbles/HTB-Nibbles-Writeup.pdf) |
 | Jerry | Easy | [View Report](Jerry/HTB-Jerry-Writeup.pdf) |
+| Shocker | Easy | [View Report](Shocker/HTB-Shocker-Writeup.pdf) |
