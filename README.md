@@ -13,3 +13,4 @@ Only **retired machines** are documented.
 | Jerry | Easy | [View Report](Jerry/HTB-Jerry-Writeup.pdf) |
 | Shocker | Easy | [View Report](Shocker/HTB-Shocker-Writeup.pdf) |
 | Bashed | Easy | [View Report](Bashed/HTB-Bashed-Writeup.pdf) |
+| Optimum | Easy | [View Report](Optimum/HTB-Optimum-Writeup.pdf) |
