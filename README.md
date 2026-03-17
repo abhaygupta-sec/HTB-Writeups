@@ -14,7 +14,7 @@ Only **retired machines** are documented.
 | Shocker | Easy | [View Report](Shocker/HTB-Shocker-Writeup.pdf) |
 | Bashed | Easy | [View Report](Bashed/HTB-Bashed-Writeup.pdf) |
 | Optimum | Easy | [View Report](Optimum/HTB-Optimum-Writeup.pdf) |
-| Open Admin | Easy | [View Report](Open Admin/HTB-OpenAdmin-Writeup.pdf) |
+| Open Admin | Easy | [View Report](Open%20Admin/HTB-OpenAdmin-Writeup.pdf) |
 | Devel | Easy | [View Report](Devel/HTB-Devel-Writeup.pdf) |
 | Netmon | Easy | [View Report](Netmon/HTB-Netmon-Writeup.pdf) |
 | Cronos | Easy | [View Report](Cronos/HTB-Cronos-Writeup.pdf) |
