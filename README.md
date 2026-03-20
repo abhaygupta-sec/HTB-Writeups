@@ -18,3 +18,4 @@ Only **retired machines** are documented.
 | Devel | Easy | [View Report](Devel/HTB-Devel-Writeup.pdf) |
 | Netmon | Easy | [View Report](Netmon/HTB-Netmon-Writeup.pdf) |
 | Cronos | Easy | [View Report](Cronos/HTB-Cronos-Writeup.pdf) |
+| Blocky | Easy | [View Report](Blocky/HTB-Blocky-Writeup.pdf) |
