@@ -23,3 +23,4 @@ Only **retired machines** are documented.
 | Poison | Medium | [View Report](Poison/HTB-Poison-Writeup.pdf) |
 | Jeeves | Medium | [View Report](Jeeves/HTB-Jeeves-Writeup.pdf) |
 | Nineveh | Medium | [View Report](Nineveh/HTB-Nineveh-Writeup.pdf) |
+| Solid State | Medium | [View Report](SolidState/HTB-SolidState-Writeup.pdf) |
