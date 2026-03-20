@@ -21,4 +21,5 @@ Only **retired machines** are documented.
 | Blocky | Easy | [View Report](Blocky/HTB-Blocky-Writeup.pdf) |
 | Sense | Easy | [View Report](Sense/HTB-Sense-Writeup.pdf) |
 | Poison | Medium | [View Report](Poison/HTB-Poison-Writeup.pdf) |
-| Jeeves | Medium | [View Report](Poison/HTB-Jeeves-Writeup.pdf) |
+| Jeeves | Medium | [View Report](Jeeves/HTB-Jeeves-Writeup.pdf) |
+| Nineveh | Medium | [View Report](Nineveh/HTB-Nineveh-Writeup.pdf) |
