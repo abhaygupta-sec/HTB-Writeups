@@ -19,3 +19,4 @@ Only **retired machines** are documented.
 | Netmon | Easy | [View Report](Netmon/HTB-Netmon-Writeup.pdf) |
 | Cronos | Easy | [View Report](Cronos/HTB-Cronos-Writeup.pdf) |
 | Blocky | Easy | [View Report](Blocky/HTB-Blocky-Writeup.pdf) |
+| Sense | Easy | [View Report](Sense/HTB-Sense-Writeup.pdf) |
