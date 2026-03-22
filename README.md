@@ -28,3 +28,4 @@ Only **retired machines** are documented.
 | Solid State | Medium | [View Report](SolidState/HTB-SolidState-Writeup.pdf) |
 | Mango | Medium | [View Report](Mango/HTB-Mango-Writeup.pdf) |
 | Querier | Medium | [View Report](Querier/HTB-Querier-Writeup.pdf) |
+| Chatterbox | Medium | [View Report](Chatterbox/HTB-Chatterbox-Writeup.pdf) |
