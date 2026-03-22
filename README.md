@@ -27,3 +27,4 @@ Only **retired machines** are documented.
 | Nineveh | Medium | [View Report](Nineveh/HTB-Nineveh-Writeup.pdf) |
 | Solid State | Medium | [View Report](SolidState/HTB-SolidState-Writeup.pdf) |
 | Mango | Medium | [View Report](Mango/HTB-Mango-Writeup.pdf) |
+| Querier | Medium | [View Report](Querier/HTB-Querier-Writeup.pdf) |
