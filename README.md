@@ -29,3 +29,4 @@ Only **retired machines** are documented.
 | Mango | Medium | [View Report](Mango/HTB-Mango-Writeup.pdf) |
 | Querier | Medium | [View Report](Querier/HTB-Querier-Writeup.pdf) |
 | Chatterbox | Medium | [View Report](Chatterbox/HTB-Chatterbox-Writeup.pdf) |
+| Carrier | Medium | [View Report](Carrier/HTB-Carrier-Writeup.pdf) |
