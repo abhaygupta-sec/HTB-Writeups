@@ -25,6 +25,7 @@ Only **retired machines** are documented.
 | Networked | Easy | [View Report](Networked/HTB-Networked-Writeup.pdf) |
 | Access | Easy | [View Report](Access/HTB-Access-Writeup.pdf) |
 | Mirai | Easy | [View Report](Mirai/HTB-Mirai-Writeup.pdf) |
+| Precious | Easy | [View Report](Precious/HTB-Precious-Writeup.pdf) |
 | Poison | Medium | [View Report](Poison/HTB-Poison-Writeup.pdf) |
 | Jeeves | Medium | [View Report](Jeeves/HTB-Jeeves-Writeup.pdf) |
 | Nineveh | Medium | [View Report](Nineveh/HTB-Nineveh-Writeup.pdf) |
