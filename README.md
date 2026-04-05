@@ -37,3 +37,4 @@ Only **retired machines** are documented.
 | Chatterbox | Medium | [View Report](Chatterbox/HTB-Chatterbox-Writeup.pdf) |
 | Carrier | Medium | [View Report](Carrier/HTB-Carrier-Writeup.pdf) |
 | Meta | Medium | [View Report](Meta/HTB-Meta-Writeup.pdf) |
+| Agile | Medium | [View Report](Agile/HTB-Agile-Writeup.pdf) |
