@@ -38,3 +38,4 @@ Only **retired machines** are documented.
 | Carrier | Medium | [View Report](Carrier/HTB-Carrier-Writeup.pdf) |
 | Meta | Medium | [View Report](Meta/HTB-Meta-Writeup.pdf) |
 | Agile | Medium | [View Report](Agile/HTB-Agile-Writeup.pdf) |
+| Shibboleth | Medium | [View Report](Shibboleth/HTB-Shibboleth-Writeup.pdf) |
