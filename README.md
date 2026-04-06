@@ -39,3 +39,4 @@ Only **retired machines** are documented.
 | Meta | Medium | [View Report](Meta/HTB-Meta-Writeup.pdf) |
 | Agile | Medium | [View Report](Agile/HTB-Agile-Writeup.pdf) |
 | Shibboleth | Medium | [View Report](Shibboleth/HTB-Shibboleth-Writeup.pdf) |
+| Investigation | Medium | [View Report](Investigation/HTB-Investigation-Writeup.pdf) |
