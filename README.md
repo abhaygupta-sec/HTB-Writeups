@@ -29,6 +29,7 @@ Only **retired machines** are documented.
 | Horizontall | Easy | [View Report](Horizontall/HTB-Horizontall-Writeup.pdf) |
 | Soccer | Easy | [View Report](Soccer/HTB-Soccer-Writeup.pdf) |
 | BountyHunter | Easy | [View Report](BountyHunter/HTB-BountyHunter-Writeup.pdf) |
+| RedPanda | Easy | [View Report](RedPanda/HTB-RedPanda-Writeup.pdf) |
 | Poison | Medium | [View Report](Poison/HTB-Poison-Writeup.pdf) |
 | Jeeves | Medium | [View Report](Jeeves/HTB-Jeeves-Writeup.pdf) |
 | Nineveh | Medium | [View Report](Nineveh/HTB-Nineveh-Writeup.pdf) |
