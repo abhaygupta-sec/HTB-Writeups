@@ -34,6 +34,7 @@ Only **retired machines** are documented.
 | Dog | Easy | [View Report](Dog/HTB-Dog-Writeup.pdf) |
 | Headless | Easy | [View Report](Headless/HTB-Headless-Writeup.pdf) |
 | Irked | Easy | [View Report](Irked/HTB-Irked-Writeup.pdf) |
+| Timelapse | Easy | [View Report](Timelapse/HTB-Timelapse-Writeup.pdf) |
 | Poison | Medium | [View Report](Poison/HTB-Poison-Writeup.pdf) |
 | Jeeves | Medium | [View Report](Jeeves/HTB-Jeeves-Writeup.pdf) |
 | Nineveh | Medium | [View Report](Nineveh/HTB-Nineveh-Writeup.pdf) |
