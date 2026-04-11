@@ -32,6 +32,7 @@ Only **retired machines** are documented.
 | RedPanda | Easy | [View Report](RedPanda/HTB-RedPanda-Writeup.pdf) |
 | Forest | Easy | [View Report](Forest/HTB-Forest-Writeup.pdf) |
 | Dog | Easy | [View Report](Dog/HTB-Dog-Writeup.pdf) |
+| Headless | Easy | [View Report](Headless/HTB-Headless-Writeup.pdf) |
 | Poison | Medium | [View Report](Poison/HTB-Poison-Writeup.pdf) |
 | Jeeves | Medium | [View Report](Jeeves/HTB-Jeeves-Writeup.pdf) |
 | Nineveh | Medium | [View Report](Nineveh/HTB-Nineveh-Writeup.pdf) |
