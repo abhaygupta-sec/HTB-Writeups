@@ -50,3 +50,4 @@ Only **retired machines** are documented.
 |42.| Shibboleth | Medium | [View Report](Shibboleth/HTB-Shibboleth-Writeup.pdf) |
 |43.| Investigation | Medium | [View Report](Investigation/HTB-Investigation-Writeup.pdf) |
 |44.| Resolute | Medium | [View Report](Resolute/HTB-Resolute-Writeup.pdf) |
+|45.| Cascade | Medium | [View Report](Cascade/HTB-Cascade-Writeup.pdf) |
