@@ -36,16 +36,17 @@ Only **retired machines** are documented.
 |28.| Irked | Easy | [View Report](Irked/HTB-Irked-Writeup.pdf) |
 |29.| Timelapse | Easy | [View Report](Timelapse/HTB-Timelapse-Writeup.pdf) |
 |30.| Return | Easy | [View Report](Return/HTB-Return-Writeup.pdf) |
-|31.| Poison | Medium | [View Report](Poison/HTB-Poison-Writeup.pdf) |
-|32.| Jeeves | Medium | [View Report](Jeeves/HTB-Jeeves-Writeup.pdf) |
-|33.| Nineveh | Medium | [View Report](Nineveh/HTB-Nineveh-Writeup.pdf) |
-|34.| Solid State | Medium | [View Report](SolidState/HTB-SolidState-Writeup.pdf) |
-|35.| Mango | Medium | [View Report](Mango/HTB-Mango-Writeup.pdf) |
-|36.| Querier | Medium | [View Report](Querier/HTB-Querier-Writeup.pdf) |
-|37.| Chatterbox | Medium | [View Report](Chatterbox/HTB-Chatterbox-Writeup.pdf) |
-|38.| Carrier | Medium | [View Report](Carrier/HTB-Carrier-Writeup.pdf) |
-|39.| Meta | Medium | [View Report](Meta/HTB-Meta-Writeup.pdf) |
-|40.| Agile | Medium | [View Report](Agile/HTB-Agile-Writeup.pdf) |
-|41.| Shibboleth | Medium | [View Report](Shibboleth/HTB-Shibboleth-Writeup.pdf) |
-|42.| Investigation | Medium | [View Report](Investigation/HTB-Investigation-Writeup.pdf) |
-|43.| Resolute | Medium | [View Report](Resolute/HTB-Resolute-Writeup.pdf) |
+|31.| Driver | Easy | [View Report](Driver/HTB-Driver-Writeup.pdf) |
+|32.| Poison | Medium | [View Report](Poison/HTB-Poison-Writeup.pdf) |
+|33.| Jeeves | Medium | [View Report](Jeeves/HTB-Jeeves-Writeup.pdf) |
+|34.| Nineveh | Medium | [View Report](Nineveh/HTB-Nineveh-Writeup.pdf) |
+|35.| Solid State | Medium | [View Report](SolidState/HTB-SolidState-Writeup.pdf) |
+|36.| Mango | Medium | [View Report](Mango/HTB-Mango-Writeup.pdf) |
+|37.| Querier | Medium | [View Report](Querier/HTB-Querier-Writeup.pdf) |
+|38.| Chatterbox | Medium | [View Report](Chatterbox/HTB-Chatterbox-Writeup.pdf) |
+|39.| Carrier | Medium | [View Report](Carrier/HTB-Carrier-Writeup.pdf) |
+|40.| Meta | Medium | [View Report](Meta/HTB-Meta-Writeup.pdf) |
+|41.| Agile | Medium | [View Report](Agile/HTB-Agile-Writeup.pdf) |
+|42.| Shibboleth | Medium | [View Report](Shibboleth/HTB-Shibboleth-Writeup.pdf) |
+|43.| Investigation | Medium | [View Report](Investigation/HTB-Investigation-Writeup.pdf) |
+|44.| Resolute | Medium | [View Report](Resolute/HTB-Resolute-Writeup.pdf) |
