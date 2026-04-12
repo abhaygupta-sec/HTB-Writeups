@@ -4,7 +4,7 @@ Only **retired machines** are documented.
 
 ## Completed Machines
 
-| Machine | Difficulty | Writeup |
+S.No| Machine | Difficulty | Writeup |
 |--------|--------|--------|
 1.| Lame | Easy | [View Report](Lame/HTB-Lame-Writeup.pdf) |
 2.| Blue | Easy | [View Report](Blue/htb-blue-walkthrough.pdf) |
