@@ -51,3 +51,4 @@ Only **retired machines** are documented.
 |43.| Investigation | Medium | [View Report](Investigation/HTB-Investigation-Writeup.pdf) |
 |44.| Resolute | Medium | [View Report](Resolute/HTB-Resolute-Writeup.pdf) |
 |45.| Cascade | Medium | [View Report](Cascade/HTB-Cascade-Writeup.pdf) |
+|46.| BlackField | Hard | [View Report](BlackField/HTB-BlackField-Writeup.pdf) |
